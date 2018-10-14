@@ -1,0 +1,11 @@
+C:\Users\shant\Desktop\VisualStudio808\CH2EX22\ch2shop\ch2shop\bin\Debug\ch2shop.exe
+C:\Users\shant\Desktop\VisualStudio808\CH2EX22\ch2shop\ch2shop\bin\Debug\ch2shop.pdb
+C:\Users\shant\Desktop\VisualStudio808\CH2EX22\ch2shop\ch2shop\bin\Debug\ch2shop.xml
+C:\Users\shant\Desktop\VisualStudio808\CH2EX22\ch2shop\ch2shop\obj\Debug\ch2shop.vbprojResolveAssemblyReference.cache
+C:\Users\shant\Desktop\VisualStudio808\CH2EX22\ch2shop\ch2shop\obj\Debug\ch2shop.Form1.resources
+C:\Users\shant\Desktop\VisualStudio808\CH2EX22\ch2shop\ch2shop\obj\Debug\ch2shop.Resources.resources
+C:\Users\shant\Desktop\VisualStudio808\CH2EX22\ch2shop\ch2shop\obj\Debug\ch2shop.vbproj.GenerateResource.cache
+C:\Users\shant\Desktop\VisualStudio808\CH2EX22\ch2shop\ch2shop\obj\Debug\ch2shop.vbproj.CoreCompileInputs.cache
+C:\Users\shant\Desktop\VisualStudio808\CH2EX22\ch2shop\ch2shop\obj\Debug\ch2shop.exe
+C:\Users\shant\Desktop\VisualStudio808\CH2EX22\ch2shop\ch2shop\obj\Debug\ch2shop.xml
+C:\Users\shant\Desktop\VisualStudio808\CH2EX22\ch2shop\ch2shop\obj\Debug\ch2shop.pdb
